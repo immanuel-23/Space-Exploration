@@ -1,0 +1,35 @@
+#content{
+   max-width:50%;
+   max-height: 50%;
+}
+.apod{
+    text-align:center;
+}
+body{
+  background-color: black;
+}
+
+h1 {
+  font-style: "Montserrat";
+  color:white;
+}
+#content1{
+  color:white;
+  font-family:"Montserrat";
+  font-size:25px;
+}
+
+.info{
+  color:white;
+}
+.date{
+  color:white;
+  font-family: "Montserrat";
+  font-size:20px;
+}
+.name{
+  color:white;
+  font-family: "Montserrat";
+  font-size:20px;
+
+}
