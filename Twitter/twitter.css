@@ -1,0 +1,21 @@
+body{
+
+    background-color: black;
+    
+    }
+    
+    a{
+        background-color:none;
+        text-decoration: none;
+        color:white;
+    }
+    .tw{
+        padding-left: 50px;
+    }
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    font-size:20px;
+    text-transform: uppercase;
+}
