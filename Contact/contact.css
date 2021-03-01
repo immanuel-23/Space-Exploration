@@ -1,0 +1,28 @@
+.containerm{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.heyt{
+    padding: 200px;
+}
+.cflex{
+    justify-content: space-between;
+}
+.common{
+    width: 200px;
+    height: 200px;
+}
+.twitter{
+    widows: 200px;
+    height: 200px;
+    color:green;
+}
+.instagram{
+    background-color: chartreuse;
+}
+.facebook{
+    background-color: crimson;
+}
+.email{
+    background-color: cyan;
+}
